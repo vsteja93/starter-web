@@ -6,6 +6,8 @@
     <name> -- <SAI TEJA VEGIREDDY> -- <twitter>
      Email
 	 Working profile
+	 Links
+	 
 
 # THANKS
 
@@ -17,3 +19,7 @@
     jQuery, Modernizr
 	
 	NEW TECHNOLOGY CSS3 
+	DOCKER
+	java
+	prgramming
+	
