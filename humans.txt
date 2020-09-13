@@ -11,6 +11,8 @@
 
 # THANKS
 
+thanks to all new resources.
+
     <name>
 
 Contribution
