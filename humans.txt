@@ -14,4 +14,4 @@
     HTML5, CSS3
     jQuery, Modernizr
 	
-	NEW TECHNOLOGY CSS3 Angular
+	NEW TECHNOLOGY CSS3 
