@@ -6,6 +6,8 @@
     <name> -- <SAI TEJA VEGIREDDY> -- <twitter>
      Email
 	 Working profile
+	 Links
+	 
 
 # THANKS
 
@@ -20,3 +22,7 @@ fork the repo and raise pull request
     jQuery, Modernizr
 	
 	NEW TECHNOLOGY CSS3 
+	DOCKER
+	java
+	prgramming
+	
