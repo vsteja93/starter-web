@@ -9,6 +9,9 @@
 
     <name>
 
+Contribution
+fork the repo and raise pull request
+
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
