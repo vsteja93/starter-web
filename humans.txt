@@ -1,2 +1,4 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
+
+adding imp motes to git stash
